@@ -5,10 +5,10 @@ Website: [(http://127.0.0.1:5500/SNAKE-BLOCK-GAME-main/)]
 
 ## Screenshots of webpages
 ### When the Game gets started 
-<img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114524127.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
+<img src="?raw=true" alt="Image Description" width="1000" height="500"> 
 
 ### During the game 
-<img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114533511.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
+<img src="https://github.com/Pragati4566/SNAKE-BLOCK-GAME/blob/main/Screenshot%20(1137).png?raw=true" alt="Image Description" width="1000" height="500"> 
 
 ### When the game gets over
 <img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114524127.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
