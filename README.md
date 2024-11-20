@@ -1,1 +1,3 @@
 # SNAKE-BLOCK-GAME
+The Snake Block game is a modern take on the classic Snake game, where players control a growing snake to collect blocks while avoiding collisions with walls or itself. The game challenges players to navigate the snake on a grid as its length increases with each block collected, making movement more strategic and intense. Designed with engaging mechanics and smooth gameplay, it provides a fun and nostalgic experience for players. This project demonstrates essential programming concepts such as real-time updates, collision detection, and dynamic difficulty scaling, offering both entertainment and a practical learning experience for game development enthusiasts.
+# SOME SCREENSHOTS OF THE WEB PAGE
