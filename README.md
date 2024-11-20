@@ -11,4 +11,4 @@ Website: [(http://127.0.0.1:5500/SNAKE-BLOCK-GAME-main/)]
 <img src="https://github.com/Pragati4566/SNAKE-BLOCK-GAME/blob/main/Screenshot%20(1137).png?raw=true" alt="Image Description" width="1000" height="500"> 
 
 ### When the game gets over
-<img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114524127.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
+<img src="https://github.com/Pragati4566/SNAKE-BLOCK-GAME/blob/main/1732129123222.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
