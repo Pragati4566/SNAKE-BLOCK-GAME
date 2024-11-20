@@ -4,8 +4,11 @@ The Snake Block game is a modern take on the classic Snake game, where players c
 Website: [(http://127.0.0.1:5500/SNAKE-BLOCK-GAME-main/)]
 
 ## Screenshots of webpages
-### High Probability of Adversarial Attack 
+### When the Game gets started 
 <img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114524127.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
 
-### Low Probability of Adversarial Attack 
+### During the game 
 <img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114533511.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
+
+### When the game gets over
+<img src="https://github.com/Pragati4566/CYBERSECURITY-OF-AUTONOMOUS-VEHICLES-THROUGH-ADVERSARIAL-ROBUSTNESS/blob/main/1732114524127.jpg?raw=true" alt="Image Description" width="1000" height="500"> 
